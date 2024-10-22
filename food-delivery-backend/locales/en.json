@@ -1,0 +1,6 @@
+{
+  "user_registered": "User registered",
+  "username_password_required": "Username and password are required",
+  "invalid_credentials": "Invalid credentials",
+  "order_created": "Order created"
+}
